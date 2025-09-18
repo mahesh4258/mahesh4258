@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahesh  
+# 👋 Hi, I'm Mahesh Thamarapalli
 
 💡 A passionate **developer & learner** exploring new technologies and building cool projects.  
 🌱 Currently working on **web development, AI/ML, and automation projects**.  
@@ -15,7 +15,7 @@
 ---
 
 ## 🌐 Portfolio
-Check out my personal portfolio: 👉 [mahesh58.vercel.app](https://mahesh58.vercel.app/)  
+Check out my personal portfolio 👉 [mahesh58.vercel.app](https://mahesh58.vercel.app/)  
 
 ---
 
@@ -30,17 +30,28 @@ A **responsive frontend project** built using HTML & CSS, designed to improve us
 
 ---
 
-## 📊 GitHub Stats
-![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshThamarapalli&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshThamarapalli&layout=compact&theme=radical)  
+## ✨ Highlights
+- 🏆 **Runner-up | Smart India Hackathon 2024 (SIH 24)**  
+- 🎓 **ServiceNow Certified Application Developer (CAD)**  
+- 🌟 Built multiple **live projects** deployed on Vercel
 
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/mahesh-thamarapalli-16502725a/)  
-- 🌐 [Portfolio](https://mahesh58.vercel.app/)  
-- ✉️ Reach me at **yourmail@example.com**  
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahesh-thamarapalli-16502725a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mahesh58.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/22A31A4258/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:mahesh11223.99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
