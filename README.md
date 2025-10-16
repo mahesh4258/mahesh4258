@@ -7,10 +7,10 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, Java, C++, JavaScript  
+- **Languages**: Python, Java, JavaScript  
 - **Web**: HTML, CSS, React, Node.js  
-- **Databases**: MySQL, MongoDB  
-- **Tools**: Git, GitHub, VS Code, Docker  
+- **Databases**:SQL, MongoDB  
+- **Tools**: Git, GitHub, VS Code
 
 ---
 
